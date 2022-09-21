@@ -1,0 +1,35 @@
+{
+"urls": [
+{
+"url": "http://刚刚.live/猫.json",
+"name": "🕍线路1"
+},
+{
+"url": "https://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+"name": "✨线路2"
+},
+{
+"url": "https://wds.ecsxs.com/223843.txt",
+"name": "🕍线路3"
+},
+{
+"url": "http://miaotvs.cn/osc",
+"name": "🕍线路4"
+},
+{
+"url": "https://liu673cn.github.io/box/m.json",
+"name": "🕍线路5"
+},
+{
+"url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
+"name": "🕍线路6"
+},{
+"url": "clan://localhost/TVBox/1.json",
+"name": "🕍本地线路1"
+},
+{
+"url": "clan://localhost/TVBox/2.json",
+"name": "✨本地线路2"
+}
+]
+}
