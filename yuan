@@ -23,13 +23,22 @@
 {
 "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
 "name": "🕍线路6"
-},{
-"url": "clan://localhost/TVBox/1.json",
-"name": "🕍本地线路1"
 },
 {
-"url": "clan://localhost/TVBox/2.json",
+"url": "https://xn--m7r412advb92j21st65a.tk/pz.json",
+"name": "🕍线路7"
+},
+{
+"url": "clan://localhost/TVBox/1.json",
+"name": "✨本地线路1"
+},
+{
+"url": "clan://localhost/TVBox/3.json",
 "name": "✨本地线路2"
+},
+{
+"url": "clan://localhost/TVBox/99.json",
+"name": "✨本地线路3"
 }
 ]
 }
